@@ -1,8 +1,7 @@
-# Mark-I-Python-Google-Search
 # Browser Taking Too Long? No problem!
 ## Search Google from the command line!
-Read-Only Repository
-Rushi Ranade's Team
+* Read-Only Repository
+* Rushi Ranade's Team
 ### Download
 #### Clone
 1. Clone repository
@@ -20,3 +19,6 @@ Rushi Ranade's Team
 1. Download and install IDLE
 2. Open the file in IDLE
 3. Run the file(F5)
+### Credits
+1. Rushi Ranade(RR192007)
+2. Amit Ranade(asranade)
