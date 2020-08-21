@@ -4,8 +4,12 @@
 Read-Only Repository
 Rushi Ranade's Team
 ### Download
+#### Clone
 1. Clone repository
 2. Verify that repo was cloned
+#### Download ZIP(Compressed Folder)
+1. Download Compressed Folder by clicking on **Code** and then **Download Zip**
+2. Extract folder and verify the folder was downloaded and extracted successfully
 ### Use from command line
 1. Navigate to repo folder
 2. RUN - "python search.py"
