@@ -1,7 +1,5 @@
 # Browser Taking Too Long? No problem!
 ## Search Google from the command line!
-* Read-Only Repository
-* Rushi Ranade's Team
 ### Prerequisites
 Python 3
 ### Download
