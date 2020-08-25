@@ -14,7 +14,7 @@ Python 3
 ##### Mac/Linux
 1. Open terminal
 2. Navigate to repo folder
-3. Run 'install mac_or_windows'
+3. Run 'install mac_or_linux'
 ### Use from command line
 1. Navigate to repo folder
 2. RUN - "python search.py"
