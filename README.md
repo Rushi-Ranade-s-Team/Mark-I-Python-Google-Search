@@ -25,3 +25,7 @@ Python 3
 1. Download and install IDLE
 2. Open the file in IDLE
 3. Run the file(F5)
+### After running the file
+Just enter what you want to search in the input
+### Recommendations
+You may want to save the file on the desktop or the taskbar
