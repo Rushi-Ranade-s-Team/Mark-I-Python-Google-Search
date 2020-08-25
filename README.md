@@ -10,11 +10,11 @@ Python 3
 ##### Windows
 1. Open 'Command Prompt' or 'Powershell'
 2. Navigate to repo folder
-3. Run install_windows
+3. Run 'install_windows'
 ##### Mac/Linux
 1. Open terminal
 2. Navigate to repo folder
-3. Run install mac_or_windows
+3. Run 'install mac_or_windows'
 ### Use from command line
 1. Navigate to repo folder
 2. RUN - "python search.py"
